@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+
+.jumbotron {
+	/* -------------------------------------------------------
+		Image was an image taken from Google Images.  Original
+		website is from womengetitdone.com and I claim no
+		responsibility in making it.  I only used it for
+		demonstration & training purposes of NodeJS.
+	------------------------------------------------------- */
+	background:url(../images/bg.jpg) no-repeat;
+	color: white;
+}
+
+footer {
+	background: #f4f4f4;
+	height: 40px;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 10px;
+	overflow: auto;
+}
